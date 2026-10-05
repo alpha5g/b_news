@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+.env
+
+# Runtime error file
+error.json
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
